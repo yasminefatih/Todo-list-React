@@ -1,8 +1,5 @@
 # Todo List App in React.js and Tailwind CSS
 
-
-![todo-list Image](https://github.com/Ameylog/Todo-list-React/assets/58946915/43f6a953-914d-4430-bf2a-1713220834da)
-
 ## Deployment
 Deployment Link:- https://ameylog.github.io/Todo-list-React/
 
