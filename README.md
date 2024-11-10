@@ -1,7 +1,6 @@
 # Todo List App in React.js and Tailwind CSS
 
-## Deployment
-Deployment Link:- https://ameylog.github.io/Todo-list-React/
+
 
 ## Overview
 
